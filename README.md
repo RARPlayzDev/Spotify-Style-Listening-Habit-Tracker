@@ -33,9 +33,12 @@ data analysis using **Pandas** and data visualization using **Matplotlib**.
 ```
 
 spotify-listening-analyzer/
+├── LICENSE
+├── README.md
+├── artist_distribution.png
 ├── listening_history.csv
 ├── main.py
-└── README.md
+└── top_songs.png
 
 ````
 
@@ -145,8 +148,6 @@ There's Nothing Holdin' Me Back Shawn Mendes             9
 
 ![Top Songs](top_songs.png)
 
-> 📌 Save the generated graphs in the same folder as the README file with the
-> exact names shown above.
 
 ---
 
